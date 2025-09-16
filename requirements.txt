@@ -1,0 +1,6 @@
+Flask
+requests
+python-dateutil
+shapely
+pyproj
+msal
